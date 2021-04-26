@@ -1,0 +1,45 @@
+    LUDUM DARE 48
+    Theme: Deeper and deeper
+
+    Ideas:
+
+- You are a wizard.
+- Going down a dungeon.
+- Each floor (start on floor 0, every level is -1, so floor -1, -2, -3, etc.)
+- Funny story, if I have time.
+
+    Ideas, but maybe not for this game:
+
+- Mining game, either like a submarine, or an astronaut
+- Earn score by collecting rare ores.
+- Too basic : (
+
+- Programmer game.. Like going deeper and deeper into code?
+- not sure what to do with it..
+- would have developer jokes
+
+Probably I'll go with the 1st theme, the one with the wizard.
+
+    Tasks:
+
+[x] World
+[x] Basic movement
+[x] Enemies and AI
+[x] Magic system
+[x] Combat system
+[X] Infinite levels
+[X] Level loading / transitions
+[x] Chests / loot
+[x] Upgrades / Changing spells
+[x] Sound system
+[x] Intro cutscene
+[x] Main menu / Game menu
+[x] HUD with tool-tips.
+[x] Particle system.
+
+    Tasks if I have time:
+
+[ ] Achievements
+[ ] Voice lines
+
+    GAME FINISHED: 26. IV 2021. @ 02:06
